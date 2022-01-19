@@ -1,6 +1,6 @@
-# Lab 1 for the course Webdevelopemement II
+# Lab 1 for the course Web development II
 
-** This is the first lab we are doing in the course Webdevelopemement II. The task is creating this README **
+**This is the first lab we are doing in the course Web development II. The task is to create this README.**
 
 ## Aim
 
