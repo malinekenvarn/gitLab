@@ -4,11 +4,11 @@
 
 ## Aim
 
-The goal of this lab is to
+The goal of this lab is to:
 
 - Understand the purpose of working with version control
 - Learn to use git for version control
-- Use some platform to create a remote repository
+- Use a platform to create a remote repository
 
 ## Keywords to understand in this lab
 
@@ -24,4 +24,4 @@ The goal of this lab is to
 
 In this lab we will use following git commands:
 
-**config**, **init**, **status**, **add**, **git commit**, **push**, **checkout**, **pull**, **merge**, **fetch**, **log**
+**config**, **init**, **status**, **add**, **commit**, **push**, **checkout**, **pull**, **merge**, **fetch**, **log**
